@@ -1,0 +1,8 @@
+D:\KHPLS\BitmapLSB\BitmapLSB\bin\Debug\BitmapLSB.exe
+D:\KHPLS\BitmapLSB\BitmapLSB\bin\Debug\BitmapLSB.pdb
+D:\KHPLS\BitmapLSB\BitmapLSB\obj\Debug\BitmapLSB.csprojResolveAssemblyReference.cache
+D:\KHPLS\BitmapLSB\BitmapLSB\obj\Debug\BitmapLSB.FormApp.resources
+D:\KHPLS\BitmapLSB\BitmapLSB\obj\Debug\BitmapLSB.Properties.Resources.resources
+D:\KHPLS\BitmapLSB\BitmapLSB\obj\Debug\BitmapLSB.csproj.GenerateResource.Cache
+D:\KHPLS\BitmapLSB\BitmapLSB\obj\Debug\BitmapLSB.exe
+D:\KHPLS\BitmapLSB\BitmapLSB\obj\Debug\BitmapLSB.pdb
